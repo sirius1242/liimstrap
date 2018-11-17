@@ -5,7 +5,7 @@ cronie
 dhcpcd
 dnsutils
 tint2
-fcitx
+fcitx-gtk3
 fcitx-sogoupinyin
 flashplugin
 gnome-icon-theme
